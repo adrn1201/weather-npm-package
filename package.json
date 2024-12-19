@@ -1,7 +1,8 @@
 {
   "name": "@weatheradrn/weather-npm-package",
   "version": "0.0.0-development",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "types/weather.d.ts",
   "scripts": {
     "build": "tsc",
     "semantic-release": "semantic-release",
